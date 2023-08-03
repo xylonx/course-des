@@ -111,7 +111,7 @@ Through the study of this course, students will:
 
 课程编号：MAT0561
 
-## 课程描述
+### 课程描述
 
 Through the study of this course, students can master the basic theory and method of complex variable function, focusing on mastering analytic functions, Cauchy's theorem and integral formula, retention Numbers, conformal mapping, etc., as well as the properties and methods of Fourier transform and Laplace transform, lay the necessary mathematical foundation for the study of subsequent courses.
 

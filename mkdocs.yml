@@ -11,7 +11,6 @@ nav:
   - 首页: index.md
   - 华中科技大学:
       - 软件学院: universities/hust/se.md
-      - 计算机学院: universities/hust/cs.md
 
 # Configuration
 theme:

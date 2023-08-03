@@ -1,0 +1,47 @@
+site_name: Course Description
+site_description: Course Description 收录院校的课程描述
+site_url: https://example.com/
+
+# Repository
+repo_name: xylonx/course-des
+repo_url: https://github.com/xylonx/course-des
+# edit_uri: edit/master/questionnaires/site/docs
+
+nav:
+  - 首页: index.md
+  - 华中科技大学:
+      - 软件学院: universities/hust/se.md
+      - 计算机学院: universities/hust/cs.md
+
+# Configuration
+theme:
+  name: material
+  language: zh
+  logo: assets/images/favicon.png
+  favicon: assets/images/favicon.png
+  palette:
+    primary: blue
+    accent: blue
+  icon:
+    repo: fontawesome/brands/github
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - instant
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/xylonx/course-des
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - pymdownx.superfences
+  - markdown.extensions.def_list
+  - meta
+  - toc:
+      permalink: true
